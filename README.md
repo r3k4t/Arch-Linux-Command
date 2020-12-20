@@ -4,41 +4,41 @@
 
 <h3>1.Update Command</h3>
 
-+sudo pacman -Syu
++ sudo pacman -Syu
 
 <h3>2.Package Search Command</h3>
 
-+sudo pacman -Ss nmap
++ sudo pacman -Ss nmap
 
 <h3>3.Package Install command</h3>
 
-+sudo pacman -S nmap
++ sudo pacman -S nmap
 
 <h3>4.All Packages Install  Command</h3>
 
-+sudo pacman -S nmap vlc cmatrix
++ sudo pacman -S nmap vlc cmatrix
 
 <h3>5.Package Remove Command</h3>
 
-+sudo pacman -Rns nmap
++ sudo pacman -Rns nmap
 
 <h3>5.All Packages Remove Command</h3>
 
-+sudo pacman -Rns nmap vlc cmatrix
++ sudo pacman -Rns nmap vlc cmatrix
 
 <h3>6.Create a rkt folder with command</h3>
 
-+mkdir rkt
++ mkdir rkt
 
 <h3>7.Remove a rkt folder with command</h3>
 
-+rmdir rkt
++ rmdir rkt
 
 <h3>8.Change Directory</h3>
 
-+cd rkt
++ cd rkt
 
 <h3>9.Remove file command</h3>
 
-+rm rkt.txt
++ rm rkt.txt
 
