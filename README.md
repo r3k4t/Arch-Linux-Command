@@ -34,7 +34,7 @@
 
 + rmdir rkt
 
-<h3>8.Change Directory</h3>
+<h3>8.Change directory command</h3>
 
 + cd rkt
 
