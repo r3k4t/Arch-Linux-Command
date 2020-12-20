@@ -22,23 +22,23 @@
 
 + sudo pacman -Rns nmap
 
-<h3>5.All Packages Remove Command</h3>
+<h3>7.All Packages Remove Command</h3>
 
 + sudo pacman -Rns nmap vlc cmatrix
 
-<h3>6.Create a rkt folder with command</h3>
+<h3>8.Create a rkt folder with command</h3>
 
 + mkdir rkt
 
-<h3>7.Remove a rkt folder with command</h3>
+<h3>9.Remove a rkt folder with command</h3>
 
 + rmdir rkt
 
-<h3>8.Change directory command</h3>
+<h3>10.Change directory command</h3>
 
 + cd rkt
 
-<h3>9.Remove file command</h3>
+<h3>11.Remove file command</h3>
 
 + rm rkt.txt
 
