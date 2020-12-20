@@ -1,4 +1,4 @@
-# Arc Linux Command
+# Arch Linux Command
 
 ![jsh32mpidhuy](https://user-images.githubusercontent.com/69615463/102713808-ae5f5680-42f0-11eb-934f-5bc22a08b221.png)
 
